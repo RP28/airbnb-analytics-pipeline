@@ -1,5 +1,3 @@
-# Big Data Engineering – AT3
-
 A **dbt project** for transforming Sydney Airbnb listings and Australian Census data into a PostgreSQL analytical data warehouse using a Silver–Gold architecture.
 
 ## Project Structure
